@@ -1,0 +1,48 @@
+/*   //http://localhost/VendittiGianlucaCodingAsst/asstMain.php  */
+
+.main-form {
+  width: 450px;
+  margin: auto;
+}
+
+.jumbotron {
+  background-color: #2e2152 !important;
+  color: #ffffff;
+  /*background-color:none !important;*/
+}
+
+body {
+  font-size: 1.2em !important;
+}
+
+input,
+label {
+  font-size: 1.2em;
+}
+
+form {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+button {
+  margin: 1.2em;
+  border: none;
+  background-color: transparent;
+  width: 10em;
+}
+
+img {
+  width: 100%;
+}
+footer {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+th,
+td {
+  font-size: 1.2em;
+}
